@@ -104,3 +104,4 @@ except Exception as e:
 <img width="334" height="34" alt="image" src="https://github.com/user-attachments/assets/5d577fdf-7dee-4a86-968c-2d2f50365f06" />
 
 <H3> Result:</H3>
+Thus, the speech recognition was executed successfully.
